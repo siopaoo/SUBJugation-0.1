@@ -8,7 +8,7 @@ public class Player {
   
   public Player(String n) {
     name = n;
-    maxItemCount = 5;
+    maxItemCount = 1;
     kodigoCount = 0;
     correctionTapeCount = 0;
     sharpenerCount = 0;
