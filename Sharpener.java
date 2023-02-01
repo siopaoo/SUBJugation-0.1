@@ -1,7 +1,7 @@
 import java.util.*;
 
-public class CorrectionTape extends Item{
-  public CorrectionTape(String n) {
+public class Sharpener extends Item{
+  public Sharpener(String n) {
     super(n);
   }
 
