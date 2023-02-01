@@ -41,7 +41,7 @@ public abstract class Subject {
   public boolean alive(){
     if(hp <= 0){
       return false;
-    }else if(hp > 0){
+    }else{
       return true;
     }
   }
